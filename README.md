@@ -1,6 +1,5 @@
 # The Official Sealcode CI
-
-![Logo for white background](https://rawgit.com/sealcode/sealcode-corporate-identity/master/logo-color-2.svg)
+![Sealcode logo](https://rawgit.com/sealcode/sealcode-corporate-identity/master/logo-color-1.svg)
 
 This repository is set of Official Sealcode promotional content such as logo, watermarks and our guidelines for their use. These images are intended for press use only and must not be altered in any way.
 
@@ -49,11 +48,11 @@ https://coolors.co/65397c-674370-5294a1-8bbac4-ffffff
 ## Correct versions of the Sealcode logo
 The preferred Sealcode logo (white with bright blue on violet)
 
-![Logo for background others than white](https://rawgit.com/sealcode/sealcode-corporate-identity/master/logo-color-1.svg)
+![Sealcode logo for background others than white](https://rawgit.com/sealcode/sealcode-corporate-identity/master/logo-color-1.svg)
 
 Alternative Sealcode logo (violet with bright blue on white)
 
-![Logo for white background](https://rawgit.com/sealcode/sealcode-corporate-identity/master/logo-color-2.svg)
+![Sealcode logo for white background](https://rawgit.com/sealcode/sealcode-corporate-identity/master/logo-color-2.svg)
 
 Alternative Sealcode logo for a greyscale printing or publishing
 
