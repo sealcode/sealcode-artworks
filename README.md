@@ -13,35 +13,38 @@ This repository is set of Official Sealcode promotional content such as logo, wa
 https://coolors.co/65397c-674370-5294a1-8bbac4-ffffff
 
 ### Color details
-**For screen**
-- **HEX** #65397C
-- **HEX** #674370
-- **HEX** #5294A1
-- **HEX** #8BBAC4
+#### For screen
 
+##### HEX
+- #65397C
+- #674370
+- #5294A1
+- #8BBAC4
 
-- **RGBA**(101, 57, 124, 1)
-- **RGBA**(103, 67, 112, 1)
-- **RGBA**(82, 148, 161, 1)
-- **RGBA**(139, 186, 196, 1)
+##### RGB
+- **RGB**(101, 57, 124)
+- **RGB**(103, 67, 112)
+- **RGB**(82, 148, 161)
+- **RGB**(139, 186, 196)
 
-
+##### HSL
 - **HSL**(279, 37%, 35%)
 - **HSL**(288, 25%, 35%)
 - **HSL**(190, 33%, 48%)
 - **HSL**(191, 33%, 66%)
 
-**For print**
+#### For print
+##### CMYK
 - **C** 0.1855 **M** 0.5403 **Y** 0.0000 **K** 0.5137
 - **C** 0.0804 **M** 0.4018 **Y** 0.0000 **K** 0.5608
 - **C** 0.4907 **M** 0.0807 **Y** 0.0000 **K** 0.3686
 - **C** 0.2908 **M** 0.0510 **Y** 0.0000 **K** 0.2314
 
-
-- **Pantone** 7448
-- **Pantone** 7448
-- **Pantone** 5415
-- **Pantone** 5425
+##### Pantone
+- 7448
+- 7448
+- 5415
+- 5425
 
 ## Correct versions of the Sealcode logo
 The preferred Sealcode logo (white with bright blue on violet)
