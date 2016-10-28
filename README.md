@@ -82,4 +82,4 @@ Alternative Sealcode emblem for a black-white printing or publishing
 ## Icon
 For use in where required is aspect ratio of 1:1
 
-![](https://rawgit.com/sealcode/sealcode-corporate-identity/master/icon.svg)
+![](https://rawgit.com/sealcode/sealcode-corporate-identity/master/icon-128x128.svg)
