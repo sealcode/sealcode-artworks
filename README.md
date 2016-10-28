@@ -78,3 +78,8 @@ Alternative Sealcode emblem for a greyscale printing or publishing
 Alternative Sealcode emblem for a black-white printing or publishing
 
 ![](https://rawgit.com/sealcode/sealcode-corporate-identity/master/emblem-black.svg)
+
+## Icon
+For use in where required is aspect ratio of 1:1
+
+![](https://rawgit.com/sealcode/sealcode-corporate-identity/master/icon.svg)
