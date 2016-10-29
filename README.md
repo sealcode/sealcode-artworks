@@ -1,5 +1,5 @@
-# The Official Sealcode CI
-![Sealcode logo](https://rawgit.com/sealcode/sealcode-corporate-identity/master/logo-color-1.svg)
+# The Official Sealcode Artworks
+![Sealcode logo](https://rawgit.com/sealcode/sealcode-artworks/master/logo-color-1.svg)
 
 This repository is set of Official Sealcode promotional content such as logo, watermarks and our guidelines for their use. These images are intended for press use only and must not be altered in any way.
 
@@ -7,7 +7,7 @@ This repository is set of Official Sealcode promotional content such as logo, wa
 
 ### Palette
 
-![Palette](https://rawgit.com/sealcode/sealcode-corporate-identity/master/palette.svg)
+![Palette](https://rawgit.com/sealcode/sealcode-artworks/master/palette.svg)
 
 https://coolors.co/65397c-674370-5294a1-8bbac4-ffffff
 
@@ -48,38 +48,38 @@ https://coolors.co/65397c-674370-5294a1-8bbac4-ffffff
 ## Correct versions of the Sealcode logo
 The preferred Sealcode logo (white with bright blue on violet)
 
-![Sealcode logo for background others than white](https://rawgit.com/sealcode/sealcode-corporate-identity/master/logo-color-1.svg)
+![Sealcode logo for background others than white](https://rawgit.com/sealcode/sealcode-artworks/master/logo-color-1.svg)
 
 Alternative Sealcode logo (violet with bright blue on white)
 
-![Sealcode logo for white background](https://rawgit.com/sealcode/sealcode-corporate-identity/master/logo-color-2.svg)
+![Sealcode logo for white background](https://rawgit.com/sealcode/sealcode-artworks/master/logo-color-2.svg)
 
 Alternative Sealcode logo for a greyscale printing or publishing
 
-![](https://rawgit.com/sealcode/sealcode-corporate-identity/master/logo-monochrome.svg)
+![](https://rawgit.com/sealcode/sealcode-artworks/master/logo-monochrome.svg)
 
 Alternative Sealcode logo for a black-white printing or publishing
 
-![](https://rawgit.com/sealcode/sealcode-corporate-identity/master/logo-black.svg)
+![](https://rawgit.com/sealcode/sealcode-artworks/master/logo-black.svg)
 
 ## Emblem
 The preferred Sealcode emblem (white with bright blue on violet)
 
-![](https://rawgit.com/sealcode/sealcode-corporate-identity/master/emblem-color-1.svg)
+![](https://rawgit.com/sealcode/sealcode-artworks/master/emblem-color-1.svg)
 
 Alternative Sealcode emblem (bright blue on white)
 
-![](https://rawgit.com/sealcode/sealcode-corporate-identity/master/emblem-color-2.svg)
+![](https://rawgit.com/sealcode/sealcode-artworks/master/emblem-color-2.svg)
 
 Alternative Sealcode emblem for a greyscale printing or publishing
 
-![](https://rawgit.com/sealcode/sealcode-corporate-identity/master/emblem-monochrome.svg)
+![](https://rawgit.com/sealcode/sealcode-artworks/master/emblem-monochrome.svg)
 
 Alternative Sealcode emblem for a black-white printing or publishing
 
-![](https://rawgit.com/sealcode/sealcode-corporate-identity/master/emblem-black.svg)
+![](https://rawgit.com/sealcode/sealcode-artworks/master/emblem-black.svg)
 
 ## Icon
 For use in where required is aspect ratio of 1:1
 
-![](https://rawgit.com/sealcode/sealcode-corporate-identity/master/icon-128x128.svg)
+![](https://rawgit.com/sealcode/sealcode-artworks/master/icon-128x128.svg)
