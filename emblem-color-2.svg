@@ -13,8 +13,8 @@
    viewBox="0 0 124.44323 101.475"
    id="svg4261"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="emblem.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="emblem-color-2.svg">
   <svg:metadata
      id="metadata27">
     <rdf:RDF>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1053"
+     inkscape:window-width="1600"
+     inkscape:window-height="900"
      id="namedview25"
      showgrid="false"
-     inkscape:zoom="2.0536058"
-     inkscape:cx="183.31878"
-     inkscape:cy="82.62852"
+     inkscape:zoom="3.2254634"
+     inkscape:cx="38.680706"
+     inkscape:cy="45.349122"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      fit-margin-top="10"
@@ -76,7 +76,7 @@
     <svg:path
        inkscape:connector-curvature="0"
        style="clip-rule:evenodd;opacity:1;fill:#8bbac4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.245;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-       d="m 210.31316,315.12322 14.29706,-14.29706 14.29707,14.29706 -14.29707,14.29706 z"
+       d="m 210.66901,315.23283 14.29706,-14.29706 14.29707,14.29706 -14.29707,14.29706 z"
        id="rect4211-6" />
   </svg:g>
   <style
